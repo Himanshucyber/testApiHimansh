@@ -4,7 +4,7 @@
   
     ],
     "users": [
-      { "name":"Himanshu" , "username": "Himanshu97", "password": "Himanshu","admin":"true" }
+      { "name":"Himanshu" , "username": "Himanshu97", "password": "Himanshu","admin":"true" ,"mobileNo":"7974613569"}
     ],
     "restaurants":[
       {
