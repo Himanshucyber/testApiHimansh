@@ -4,7 +4,13 @@
   
     ],
     "users": [
-      
+        {
+            "name": "Himanshu Pandey",
+            "username": "Himanshu25",
+            "contact": "7974613569",
+            "password": "Himanshu",
+            "id": 1
+            }
     ],
     "restaurants":[
       {
