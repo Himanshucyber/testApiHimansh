@@ -10,7 +10,14 @@
             "contact": "7974613569",
             "password": "Himanshu",
             "id": 1
-            }
+            },{
+              "name": "Vivek ",
+              "username": "vivek123",
+              "contact": "7974613569",
+              "password": "vivek123",
+              "cart": [ ],
+              "id": 2
+              }
     ],
     "restaurants":[
       {
