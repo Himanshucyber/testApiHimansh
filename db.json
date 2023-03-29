@@ -9,14 +9,16 @@
             "username": "Himanshu25",
             "contact": "7974613569",
             "password": "Himanshu",
-            "id": 1
+            "id": 1,
+            "admin":"true"
             },{
               "name": "Vivek ",
               "username": "vivek123",
               "contact": "7974613569",
               "password": "vivek123",
               "cart": [ ],
-              "id": 2
+              "id": 2,
+              "admin":"false"
               },
               {
                 "name": "Vaibhav",
@@ -24,7 +26,8 @@
                 "contact": "7974613569",
                 "password": "vaibhav123",
                 "cart": [ ],
-                "id": 3
+                "id": 3,
+                "admin":"false"
                 }
     ],
     "restaurants":[
