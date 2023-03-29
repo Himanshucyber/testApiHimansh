@@ -17,7 +17,15 @@
               "password": "vivek123",
               "cart": [ ],
               "id": 2
-              }
+              },
+              {
+                "name": "Vaibhav",
+                "username": "vaibhav123",
+                "contact": "7974613569",
+                "password": "vaibhav123",
+                "cart": [ ],
+                "id": 3
+                }
     ],
     "restaurants":[
       {
