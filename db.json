@@ -44,15 +44,23 @@
         "id": 2,
         "admin": "false",
         "address": [
-        {
-        "addressLine1": "303,Sree Ram Angan",
-        "addressLine2": "Bhairav Nagar",
-        "distric": "Pune",
-        "state": "Maharastra",
-        "pinCode": "41015",
-        "country": "India"
-        }
-        ]
+          {
+          "addressLine1": "303,Sree Ram Angan",
+          "addressLine2": "Bhairav Nagar",
+          "distric": "Pune",
+          "state": "Maharastra",
+          "pinCode": "41015",
+          "country": "India"
+          },
+          {
+          "addressLine1": "303,",
+          "addressLine2": "Manipur,Sasaram",
+          "distric": "Rohatash",
+          "state": "Bihar",
+          "pinCode": "802217",
+          "country": "India"
+          }
+          ]
         },
       {
       "name": "Vaibhav",
