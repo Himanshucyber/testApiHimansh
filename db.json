@@ -44,34 +44,51 @@
         "id": 2,
         "admin": "false",
         "address": [
-          {
-          "addressLine1": "303,Sree Ram Angan",
-          "addressLine2": "Bhairav Nagar",
-          "distric": "Pune",
-          "state": "Maharastra",
-          "pinCode": "41015",
-          "country": "India"
-          },
-          {
-          "addressLine1": "303,",
-          "addressLine2": "Manipur,Sasaram",
-          "distric": "Rohatash",
-          "state": "Bihar",
-          "pinCode": "802217",
-          "country": "India"
-          }
-          ]
+        {
+        "addressLine1": "303,Sree Ram Angan",
+        "addressLine2": "Bhairav Nagar",
+        "distric": "Pune",
+        "state": "Maharastra",
+        "pinCode": "41015",
+        "country": "India"
         },
-      {
-      "name": "Vaibhav",
-      "username": "vaibhav123",
-      "contact": "7974613569",
-      "password": "vaibhav123",
-      "cart": [ ],
-      "id": 3,
-      "admin": "false",
-      "address":[]
-      }
+        {
+        "addressLine1": "303,",
+        "addressLine2": "Manipur,Sasaram",
+        "distric": "Rohatash",
+        "state": "Bihar",
+        "pinCode": "802217",
+        "country": "India"
+        }
+        ]
+        },
+        {
+        "name": "Vaibhav",
+        "username": "vaibhav123",
+        "contact": "7974613569",
+        "password": "vaibhav123",
+        "cart": [
+        {
+        "name": "2aloo Paratha + 1sweet Lassi",
+        "price": "175",
+        "serve": "1",
+        "desc": "Delicious soft parathas made with fine grain whole wheat floor stuffed with farm fresh potatoes, tinge of green chilli and indian spices served with chutney and pickle",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/f8mbx3tvem56zdwpprzt"
+        }
+        ],
+        "id": 3,
+        "admin": "false",
+        "address": [
+        {
+        "addressLine1": "Unknown",
+        "addressLine2": "Unknown",
+        "distric": "Jhasi",
+        "state": "U.P",
+        "pinCode": "411015",
+        "country": "India"
+        }
+        ]
+        }
       ],
     "restaurants":[
       {
