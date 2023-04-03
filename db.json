@@ -449,11 +449,11 @@
       " Italian"
       ],
       "rating": "5",
-      "imgage": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/irvs5f1bjvzyukvp7ysh",
+      "imgage": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_264,h_288,c_fill/dumr3yhj0xpdvu4qkuru",
       "menu": [
       {
       "name": "Margherita Pizza",
-      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jze2ceovsh0ef9zsgr6a",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/0e7df98b7cffdb0b88856464014ad2ff",
       "description": "Freshly made pizza topped with tomato sauce, mozzarella cheese and basil leaves.",
       "price": "250",
       "ingrediant": "veg",
@@ -461,7 +461,7 @@
       },
       {
       "name": "Pepperoni Pizza",
-      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jze2ceovsh0ef9zsgr6a",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jvp9hwkap5rdafg3wem7",
       "description": "Spicy pepperoni slices on top of freshly made pizza with tomato sauce and mozzarella cheese.",
       "price": "350",
       "ingrediant": "nonveg",
@@ -469,7 +469,7 @@
       },
       {
       "name": "Garlic Bread",
-      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wvllq3apnouebpljyaqp",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/n2ycmete7ehes9mrerlw",
       "description": "Freshly baked bread with garlic and herb butter.",
       "price": "120",
       "ingrediant": "veg",
@@ -486,11 +486,11 @@
         "Sushi"
         ],
         "rating": "4.8",
-        "imgage": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/sbjyphvmahzjraerxh7f",
+        "imgage": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bjnxveey2ofi4sho6sfk",
         "menu": [
         {
         "name": "California Roll",
-        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_264,h_288,c_fill/eaxv75zzgcq8f4brcpeo",
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nvquyqps3el8xpeh2x62",
         "description": "Crab, avocado, and cucumber rolled in sushi rice and seaweed.",
         "price": "350",
         "ingrediant": "nonveg",
@@ -498,7 +498,7 @@
         },
         {
         "name": "Spicy Tuna Roll",
-        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/w4tfcxloxj5clenq6zuy",
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/r43orzt2b3fc9rz41oex",
         "description": "Tuna, spicy mayo, and cucumber rolled in sushi rice and seaweed.",
         "price": "400",
         "ingrediant": "nonveg",
