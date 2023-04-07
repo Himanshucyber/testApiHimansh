@@ -23,6 +23,7 @@
         "name": "2aloo Paratha + 1sweet Lassi",
         "price": "175",
         "serve": "1",
+        "quantity": 1,
         "desc": "Delicious soft parathas made with fine grain whole wheat floor stuffed with farm fresh potatoes, tinge of green chilli and indian spices served with chutney and pickle",
         "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/f8mbx3tvem56zdwpprzt"
         },
@@ -30,11 +31,13 @@
         "name": "Plain Paratha",
         "price": "35",
         "serve": "1",
+        "quantity": 1,
         "desc": "Delicious soft paratha made with fine grain whole wheat flour. Our collection of parathas are truly desi and pure. Each paratha is an expression of love.",
         "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/sre6yvuzy7nzuv2qddgp"
         },
         {
         "name": "Palak Paneer",
+        "quantity": 1,
         "price": "135",
         "serve": "1",
         "desc": " A hearty dish with soft paneer cubes cooked in palak puree with flavourfull masala.",
@@ -68,14 +71,14 @@
         "contact": "7974613569",
         "password": "vaibhav123",
         "cart": [
-        {
-        "name": "2aloo Paratha + 1sweet Lassi",
-        "price": "175",
-        "serve": "1",
-        "desc": "Delicious soft parathas made with fine grain whole wheat floor stuffed with farm fresh potatoes, tinge of green chilli and indian spices served with chutney and pickle",
-        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/f8mbx3tvem56zdwpprzt",
-        "quantity":"1"
-        }
+          {
+            "name": "California Roll",
+            "serve": "2",
+            "price": "350",
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nvquyqps3el8xpeh2x62",
+            "description": "Crab, avocado, and cucumber rolled in sushi rice and seaweed.",
+            "quantity": 1
+            }
         ],
         "id": 3,
         "admin": "false",
