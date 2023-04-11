@@ -540,7 +540,8 @@
           "title":"Kalyan Bhel",
           "Category": ["Chaat", " Snacks"],
           "budget":200,
-           "id" :12,
+          "id" :12,
+          "rating": "4.3",
           "imgage":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/kmrujf5dfsldvbyirpxp",
            "menu":[
             {"description":"(50 ps with all material) serves-with-allu-ragda-onion-sev-sweet-chutni-spicy-water-and-only-puri-full-packing)",
