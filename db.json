@@ -535,6 +535,81 @@
         "serves": "2"
         }
         ]
+        },
+        {
+          "title":"Kalyan Bhel",
+          "Category": ["Chaat", " Snacks"],
+          "budget":200,
+           "id" :12,
+          "imgage":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/kmrujf5dfsldvbyirpxp",
+           "menu":[
+            {"description":"(50 ps with all material) serves-with-allu-ragda-onion-sev-sweet-chutni-spicy-water-and-only-puri-full-packing)",
+             "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/pzt2ibhysq5lnpkmnyvx",
+             "ingrediant": "veg",
+             "name": "Pani Puri Family Pack [50 P] With All Materi45",
+             "price":249,
+              "serves":1
+            },
+            {
+              "description":"Serves 7 pieces with aalu,sweet chutni,spicy water,onion and sev etc",
+             "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/6cdd4871d4d1d621012c84512318a0c4",
+             "ingrediant": "veg",
+             "name": "Aloo Pani Puri",
+             "price":40,
+              "serves":1
+            },
+            {
+              "description":"Serves-with-aalu.onion-tomato-sev-all-masalas-1-ek-number",
+             "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/7e9936d15d7cfbe71a5bc83c38854a1c",
+             "ingrediant": "veg",
+             "name": "Masala Puri",
+             "price":69,
+              "serves":1
+            },
+            {
+              "description":"Serves 6 pieces with allu,green -spicy-chutni,onion,sweet-pani,spicy-pani,bundi,farsan,1-number-sev and many-other-other-things-shoud-be the best",
+             "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/3dfbeedbc94f6d6176caab6a901307e1",
+             "ingrediant": "veg",
+             "name": "Sev Puri",
+             "price":70,
+              "serves":1
+            },
+            {
+              "description":"Serves-special-bombay-puri-and-and-spicy-chutni-sweet-chutni-and-bundi-and-sev-etc.",
+             "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/0e6198df78992ef70cd91cdfe48dc8b5",
+             "ingrediant": "veg",
+             "name": "Bombay Sev Puri",
+             "price":89,
+              "serves":1
+            },
+            {
+              "description":"Serve-with-allu-spicy-chutni-sweet-dahi-masalas-bundi;sev",
+             "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/0e87127c794776d727bc55dec72791cd",
+             "ingrediant": "veg",
+             "name": "Spdp",
+             "price":89,
+              "serves":1
+            },
+            {
+              "description":"Serves with dahi allu and many other tings",
+             "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/12bd0845ef4390b53d35307ffc0a8233",
+             "ingrediant": "veg",
+             "name": "Dahi Puri",
+             "price":80,
+              "serves":1
+            },
+            {
+              "description":"Serves with dahi allu and many other tings",
+             "image":"Serves-with crush-of-puri-spicy chutni:sweet;chutni;spicy:water -ragda:bundi-farsan -ek number sev and many-other-things-should-be-added"7,
+             "ingrediant": "veg",
+             "name": "Ragda Puri",
+             "price":70,
+              "serves":1
+            }
+
+
+
+            ]
         }
       
       ]
