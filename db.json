@@ -134,7 +134,40 @@
       "description": "Delicious soft paratha made with fine grain whole wheat flour. Our collection of parathas are truly desi and pure. Each paratha is an expression of love.",
       "ingrediant": "veg",
       "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/sre6yvuzy7nzuv2qddgp"
-      }
+      },
+      {
+        "name": "Chole Bhature Combo",
+        "price": 265,
+        "serves": 1,
+        "description": "Special Punjabi Chole, 2 bhaturas, steamed rice, signature dal makhani, salad, pickle and 2 gulaab jamuns.",
+        "ingrediant": "veg",
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/poy1xwpzyqqrpcdpgftq"
+        },
+        {
+          "name": "Paneer Makhani Combo",
+          "price": 309,
+          "serves": 1,
+          "description": "Paneer Makhani handi gravy, 2 butter rotis, steamed rice, signature dal makhani, salad, pickle and 2 gulaab jamuns.",
+          "ingrediant": "veg",
+          "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ald9vsfpf9somavwqeku"
+          },
+          {
+            "name": "Chicken Biryani Combo",
+            "price": 319,
+            "serves": 1,
+            "description": " home made scrumptious Chicken Biryani, 2 butter rotis, signature dal makhani, raita, salad, pickle and 2 gulaab jamuns.",
+            "ingrediant": "nonveg",
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/itsy0oq0th09rmcp3yib"
+            },
+            {
+              "name": "Sarson Da Saag Te Makke Di Roti",
+              "price": 195,
+              "serves": 1,
+              "description": "Punjabiaan di shaan sarson da saag. Winter special is made with mustard leaves & spinach leaves cooked ,grinded & fried in rich ghee with jeera & onion & flavoured tadka. Served with makke di roti.",
+              "ingrediant": "veg",
+              "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/t1fyuhza4vtfognabwlk"
+              }
+
       ]
       },
       {
