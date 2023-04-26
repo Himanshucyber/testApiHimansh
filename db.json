@@ -369,7 +369,102 @@
       "serves": "1"
       }
       ]
-      }
+      },
+
+        {
+        "id": 7,
+        "title": "CakeZone",
+        "budget": "200",
+        "Category": [
+          "Bakery",
+          " Desserts"
+          ],
+        "rating": "4.1",
+        "imgage": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/cb746e0398ab4a49eef386a5bb4c0647",
+        "menu": [
+           {
+             "name": "Rasmalai Jar cake",
+             "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/utx4vphca3ovojeikdnk",
+             "price": "169",
+             "serves": "3",
+             "description": "[Eggless} Try our delicious Indian fusion Rasmalai jar cake and mark memorable moments with your loved ones.",
+             "ingrediant": "veg"
+           },
+           {
+             "name": "Gulab Jamun Red Velvet Jar Cake",
+             "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/spqdmixzqbijvfqk72x6",
+             "price": "169",
+             "serves": "1",
+             "description": "Serves 1 | [Eggless]. CakeZone's signature fusion cake, a blend of traditional Gulab Jamun and Western Dessert freshly made after you place your order. We stand by our promise, sweeter celebrations with CakeZone.",
+             "ingrediant": "veg"
+           },
+           {
+             "name": "Pineapple Dessert Jar Cake",
+             "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bv9rg96oskvgpc44s2tj",
+             "price": "129",
+             "serves": "1",
+             "description": "[Eggless]. Does pineapple go on Pizza or Not? It definitely goes well with our perfect cakes - Do try out our jars and taste the real freshness. The freshness of the cake stays longer with our unique jar cakes invention.",
+             "ingrediant": "veg"
+           },
+           {
+             "name": "Red Velvet Cupcakes - 6 Pc",
+             "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zbof5owd2dykmqlecxya",
+             "price": "449",
+             "serves": "1",
+             "description": "Who will ignore this beautiful and delicious red velvet cupcakes, a day without cupcake is incomplete. Make your day special by our red velvet cupcakes (Pack of 6 Pieces) and celebrate the moments.",
+             "ingrediant": "veg"
+           },
+           {
+           "name": "Indian Fusion Cupcakes - 4 Pc",
+           "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tmvchlwtxcw0kr4xo7em",
+           "price": "349",
+           "serves": "1",
+           "description": "[Kaju Barfi, Rasmalai, Gulab jamun vanilla and Gulab Jamun red velvet cupcakes] Cupcakes are always best, try our delicious Indian fusion cupcakes and celebrate the moments.",
+           "ingrediant": "veg"
+           },
+           {
+           "name": "Choice Of Any Four Cupcakes",
+           "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gjzugjdrk3by0abfahqe",
+           "price": "299",
+           "serves": "1",
+           "description": "[Eggless]. Happiness is only one cupcake away. So a combo of cupcakes also leads to a combo of happiness. Our cupcakes are a delight to all your five senses.",
+           "ingrediant": "veg"
+           },
+           {
+           "name": "Assorted Cupcakes - 6 Pc",
+           "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/rjmcdmuo1zfl9vwrzvqw",
+           "price": "429",
+           "serves": "1",
+           "description": "Cupcakes are always best to complete your day, try our delicious set of red velvet, chocolate and vanilla cupcakes and make your day special.",
+           "ingrediant": "veg"
+           },
+           {
+           "name": "Death by Chocolate Eggless Cake",
+           "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/f7c98259deb49b6604ab609e1c26861d",
+           "price": "499",
+           "serves": "4",
+           "description": "Serves 4 | [ Eggless/Veg ] Did you know Chocolate is powerfull anti oxidant? Imporoves Blood flow and lowers blood pressure. So why wait, try our premium chocolate cake. Made with freshly baked Chocolate sponge cake. [ Chocolate Sponge + Chocolate Chips + Truffle + Mousse Cream ]",
+           "ingrediant": "veg"
+           },
+           {
+           "name": "Black Forest Eggless Cake",
+           "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/8c3d07019e3fc02f90ae31ed972cecb1",
+           "price": "499",
+           "serves": "4",
+           "description": "Serves 4 | [ Eggless/Veg ] Several layers of chocolate cake, with cherry filling, with lashings of whipped cream between each layer. The cake is then decorated with piped, whipped cream, maraschino cherries, and chocolate shavings. We stand by our promise, sweeter celebrations with CakeZone. [ Chocolate Sponge + Cherry + Chocolate Flakes",
+           "ingrediant": "veg"
+           },
+           {
+           "name": "Red Velvet Eggless Cake",
+           "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/792c477e908b8d99f2b234329784423b",
+           "price": "689",
+           "serves": "2",
+           "description": "Serves 4 | [ Eggless/Veg ] Preparation starts after receiving the order. No storage. Scrumptious and tempting, creamy red velvet cake with the taste of cocoa and sugar. [ Red Velvet Sponge + Cheese Cream ]",
+           "ingrediant": "veg"
+           }
+           ]
+        }
+
       ]
     
   }
