@@ -773,7 +773,92 @@
           "ingrediant": "veg"
           }
           ]
-          }
+          },
+          {
+"id": 11,
+"title": "The 7A Restaurant & Bar",
+"budget": "1200",
+"Category": [
+"Snacks",
+" Italian"
+],
+"rating": "4.3",
+"imgage": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/m8xakwdwclostk5ghnsq",
+"menu": [
+{
+"name": "Paneer Shole Kebab",
+"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hdjdanfhij3mq2gfzncm",
+"price": "375",
+"serves": "1",
+"description": "Cubes of paneer marinated with spice hung curd & indian masla,glazed in the tandoori.",
+"ingrediant": "veg"
+},
+{
+"name": "Tandoori Chicken",
+"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/v15onjcyndtlc3k9xomj",
+"price": "395",
+"serves": "1",
+"description": "Marinated in yogurt, lemon juice & plenty of spices, then grilled or boiled. Choose your type of preparation.",
+"ingrediant": "nonveg"
+},
+{
+"name": "Butter Chicken",
+"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/azthg71xlu55teftjdpq",
+"price": "475",
+"serves": "1",
+"description": "Butter chicken has tomato & cashew nut based gravy garnished with butter & cream.",
+"ingrediant": "nonveg"
+},
+{
+"name": "Chicken Biryani",
+"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/qpuuupytx4nyrizfgiyh",
+"price": "495",
+"serves": "1",
+"description": "Chicken biryani recipe in pressure cooker to yield delicious flavourful chicken.",
+"ingrediant": "nonveg"
+},
+{
+"name": "Chicken 65",
+"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/lclgfnczflwuqq6o3nva",
+"price": "425",
+"serves": "2",
+"description": "Diced chicken infused from the indo Asian cuisine.",
+"ingrediant": "nonveg"
+},
+{
+"name": "Sauteed Chicken Schezwan Style",
+"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/athx8v9wlsyjlclikxdb",
+"price": "425",
+"serves": "1",
+"description": "Schezwan style of chicken.",
+"ingrediant": "nonveg"
+},
+{
+"name": "Wild Pepper Fish",
+"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cyd4mycydxwgi7lpvtjn",
+"price": "495",
+"serves": "1",
+"description": "Fish with three pepper, chilli flakes & spring onion.",
+"ingrediant": "nonveg"
+},
+{
+"name": "Wild Vegetables in Authentic Hunan Sauce",
+"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cyd4mycydxwgi7lpvtjn",
+"price": "355",
+"serves": "1",
+"description": "Vegetable tossed with authentic hunan sauce.",
+"ingrediant": "veg"
+},
+{
+"name": "Gulab Jamun",
+"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/lrfvdlrjde3hkzuzpxlv",
+"price": "145",
+"serves": "2",
+"description": "Gulab Jamun",
+"ingrediant": "veg"
+}
+]
+}
       ]
     
   }
